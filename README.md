@@ -1,4 +1,6 @@
-### Hi there 👋
+### Ahoy
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkcat013&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **darkcat013/darkcat013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
